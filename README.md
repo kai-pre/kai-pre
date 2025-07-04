@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Kai 👉😎👉</h1>
+<h1 align="center">Hi there! I'm Kai.</h1>
 <h3 align="center">Cognitive Scientist, Data Scientist, ML & Software Engineer</h3>
 <h3 align="center">(looking for a Job, too!)</h3>
 
