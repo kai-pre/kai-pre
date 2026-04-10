@@ -4,7 +4,6 @@
 
 <br>
 
-- 🔭 I’m currently working on [ELOPE, the current challenge of ESA's _Kelvins_ competition](https://kelvins.esa.int/elope/)
 - 🌱 I’m currently learning how to use [SNNs](https://en.wikipedia.org/wiki/Spiking_neural_network)
 - 👔 _Professional_ projects are available right here, at [my Github profile](https://github.com/kai-pre/)
 - 👕 _Personal_ projects are available at [my other Github profile](https://github.com/crvl/)
